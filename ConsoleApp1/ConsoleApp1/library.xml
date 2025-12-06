@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<library>
+	<book>
+		<title id="1">Edge browser where to fetch the infomation from the server</title>
+		<author>MS</author>
+		<year>1000</year>
+	</book>
+	<book>
+		<title id="2">Chrome</title>
+		<author>Google browser where to fetch the infomation from the server</author>
+		<year>2000</year>
+	</book>
+	<book>
+		<title id="3">FireFox browser where to fetch the infomation from the server</title>
+		<author>Fox</author>
+		<year>3000</year>
+	</book>
+	<validation>
+		<vslidate>
+			<getattribute id="3">
+				
+			</getattribute>
+		</vslidate>
+	</validation>
+</library>
